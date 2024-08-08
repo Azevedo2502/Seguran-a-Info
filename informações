@@ -1,0 +1,44 @@
+Objetivos da Disciplina::
+
+## Compreender os conceitos relacionados á segurança da informação.
+
+## Conhecer metodologias de ataque. 
+
+## identificar protocolos e tecnologias.
+
+## Projetar politicas de segurança.
+
+<<< ASSUNTOS TRATADAS EM AULA >>>
+
+1) segurança da informaçao
+2) codigos maliciosos
+3) controle de acessso
+4) metodos de ataque
+5) mecanismo de segurança
+6) criptografia
+7) segurança na internet
+8) certificado digital 
+
+
+<<< DATAS RELEVANTES >>>
+
+26/09 - AP1
+14/11 - AC (apresentação / entrega )
+21/11 - AP2
+28/11 - AS 
+
+<<< TRABALHO E ATIVIDADES >>> 
+
+AC / instalação da distribuição kali linux na MAQUINA VIRTUAL (vitual box) 
+
+# Análise e estudos de duas ferramentas usadas em segurança.
+
+(1) - devera ser apresentad a instalação do rali, no computador da ibmec.
+
+(2) - devera ser entregue o repertório tecnico  sobre o experimento dos softweres estudados.
+
+OBS: 
+# descrever o propósito do aplicativo
+# indicar o cenário variáveis e todas outras dados usados no experimento
+# apresentar os resultados e as conclusões obtidas 
+# bibliografia
